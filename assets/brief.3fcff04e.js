@@ -1,1 +1,0 @@
-import{_ as e,o as t,c,a as s}from"./index.a435575e.js";var o="/smart/assets/brief.7de95b09.png";const a={},r={class:"page"},_=s("h1",null,"\u667A\u6167\u9053\u8DEF\u7C21\u4ECB",-1),n=s("img",{src:o,class:"w-full"},null,-1),i=[_,n];function l(d,f){return t(),c("section",r,i)}var p=e(a,[["render",l]]);export{p as default};

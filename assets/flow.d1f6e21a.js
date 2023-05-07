@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as o,a as s}from"./index.a435575e.js";var t="/smart/assets/flow.482c58cf.png";const a={},_={class:"page"},n=s("h1",null,"\u667A\u6167\u9053\u8DEF\u8A2D\u65BD\u6578\u4F4D\u5316\u6AA2\u6E2C\u6D41\u7A0B",-1),r=s("img",{src:t,class:"w-full"},null,-1),l=[n,r];function f(i,d){return c(),o("section",_,l)}var p=e(a,[["render",f]]);export{p as default};
